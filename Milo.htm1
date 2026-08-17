@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Milo</title>
+</head>
+
+<body>
+
+    <h1>MILO</h1>
+    <p>Ready, boss.</p>
+
+    <input id="command" placeholder="Talk to Milo">
+
+    <button onclick="askMilo()">Ask Milo</button>
+
+    <p id="response"></p>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
